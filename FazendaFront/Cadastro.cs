@@ -21,13 +21,13 @@ namespace FazendaFront
         }
         // Responsável pelas operações de acesso a dados da entidade.
         private readonly CompraAnimaisDAO _compraDAO = new CompraAnimaisDAO();
-        private CompraAnimais _compraParaEditar; // Guarda a compra que está sendo editada
+        private CompraAnimais _compraParaEditar; // Guarda a compra que está sendo editada.
         private readonly FornecedorDAO _fornecedorDAO = new FornecedorDAO();
         // Readonly proteger a integridade da lógica da sua aplicação.
         // Ele deixa claro que esses DAOs são dependências fixas e não devem
         // ser trocadas durante a execução da classe.
 
-        // Construtor para EDITAR um cadastro existente
+        // Construtor para EDITAR um cadastro existente.
         public Cadastro(CompraAnimais compra) : this() 
         {
             _compraParaEditar = compra;
@@ -43,7 +43,7 @@ namespace FazendaFront
             txtGta.Text = _compraParaEditar.GTA;
             txtQuantidade.Text = _compraParaEditar.Quantidade.ToString();
 
-            // Define o item selecionado no ComboBox com base no ID do fornecedor
+            // Define o item selecionado no ComboBox com base no ID do fornecedor.
             if (_compraParaEditar.Fornecedor != null)
             {
                 cbxFornecedor.SelectedValue = _compraParaEditar.Fornecedor.IdFornecedor;
@@ -72,7 +72,7 @@ namespace FazendaFront
                 compraParaSalvar.Fornecedor = cbxFornecedor.SelectedItem as Fornecedor;
 
                 
-                // Agora, com o objeto preenchido, decidimos qual método chamar
+                // Agora, com o objeto preenchido, decidimos qual método chamar.
                 if (_compraParaEditar == null)
                 {
                     _compraDAO.Cadastrar(compraParaSalvar);
@@ -86,7 +86,7 @@ namespace FazendaFront
 
                 this.Close(); // Fecha a tela de cadastro.
             }
-            catch (ArgumentOutOfRangeException ex) // Captura a exceção específica
+            catch (ArgumentOutOfRangeException ex) // Captura a exceção específica.
             {
                 
                 MessageBox.Show(ex.Message, "Erro de Validação", MessageBoxButtons.OK, MessageBoxIcon.Error);

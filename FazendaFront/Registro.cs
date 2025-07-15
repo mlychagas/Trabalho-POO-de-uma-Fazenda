@@ -29,7 +29,6 @@ namespace FazendaFront
         {
             Cadastro cadastro = new Cadastro();
             cadastro.ShowDialog();
-
             CarregarGrid();
         }
 
