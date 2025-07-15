@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ep509\\OneDrive - ifro.edu.br\\3 Periodo\\POO\\Trabalho\\bibliotecaFazenda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84CA86EB-A77E-4368-A808-C4D5E11E1527}|FazendaLibrary\\FazendaLibrary.csproj|C:\\Users\\ep509\\OneDrive - ifro.edu.br\\3 Periodo\\POO\\Trabalho\\bibliotecaFazenda\\fazendalibrary\\interfaces\\icruddao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84CA86EB-A77E-4368-A808-C4D5E11E1527}|FazendaLibrary\\FazendaLibrary.csproj|solutionrelative:fazendalibrary\\interfaces\\icruddao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84CA86EB-A77E-4368-A808-C4D5E11E1527}|FazendaLibrary\\FazendaLibrary.csproj|C:\\Users\\ep509\\OneDrive - ifro.edu.br\\3 Periodo\\POO\\Trabalho\\bibliotecaFazenda\\fazendalibrary\\dao\\fornecedordao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84CA86EB-A77E-4368-A808-C4D5E11E1527}|FazendaLibrary\\FazendaLibrary.csproj|solutionrelative:fazendalibrary\\dao\\fornecedordao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84CA86EB-A77E-4368-A808-C4D5E11E1527}|FazendaLibrary\\FazendaLibrary.csproj|c:\\users\\ep509\\onedrive - ifro.edu.br\\3 periodo\\poo\\trabalho\\bibliotecafazenda\\fazendalibrary\\dao\\compraanimaisdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84CA86EB-A77E-4368-A808-C4D5E11E1527}|FazendaLibrary\\FazendaLibrary.csproj|solutionrelative:fazendalibrary\\dao\\compraanimaisdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84CA86EB-A77E-4368-A808-C4D5E11E1527}|FazendaLibrary\\FazendaLibrary.csproj|C:\\Users\\ep509\\OneDrive - ifro.edu.br\\3 Periodo\\POO\\Trabalho\\bibliotecaFazenda\\fazendalibrary\\mapeamento\\compraanimais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84CA86EB-A77E-4368-A808-C4D5E11E1527}|FazendaLibrary\\FazendaLibrary.csproj|solutionrelative:fazendalibrary\\mapeamento\\compraanimais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84CA86EB-A77E-4368-A808-C4D5E11E1527}|FazendaLibrary\\FazendaLibrary.csproj|C:\\Users\\ep509\\OneDrive - ifro.edu.br\\3 Periodo\\POO\\Trabalho\\bibliotecaFazenda\\fazendalibrary\\utilitario\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84CA86EB-A77E-4368-A808-C4D5E11E1527}|FazendaLibrary\\FazendaLibrary.csproj|solutionrelative:fazendalibrary\\utilitario\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84CA86EB-A77E-4368-A808-C4D5E11E1527}|FazendaLibrary\\FazendaLibrary.csproj|C:\\Users\\ep509\\OneDrive - ifro.edu.br\\3 Periodo\\POO\\Trabalho\\bibliotecaFazenda\\fazendalibrary\\mapeamento\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84CA86EB-A77E-4368-A808-C4D5E11E1527}|FazendaLibrary\\FazendaLibrary.csproj|solutionrelative:fazendalibrary\\mapeamento\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CompraAnimais.cs",
+              "DocumentMoniker": "C:\\Users\\ep509\\OneDrive - ifro.edu.br\\3 Periodo\\POO\\Trabalho\\bibliotecaFazenda\\FazendaLibrary\\Mapeamento\\CompraAnimais.cs",
+              "RelativeDocumentMoniker": "FazendaLibrary\\Mapeamento\\CompraAnimais.cs",
+              "ToolTip": "C:\\Users\\ep509\\OneDrive - ifro.edu.br\\3 Periodo\\POO\\Trabalho\\bibliotecaFazenda\\FazendaLibrary\\Mapeamento\\CompraAnimais.cs",
+              "RelativeToolTip": "FazendaLibrary\\Mapeamento\\CompraAnimais.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T15:19:25.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CompraAnimaisDAO.cs",
+              "DocumentMoniker": "C:\\Users\\ep509\\OneDrive - ifro.edu.br\\3 Periodo\\POO\\Trabalho\\bibliotecaFazenda\\FazendaLibrary\\DAO\\CompraAnimaisDAO.cs",
+              "RelativeDocumentMoniker": "FazendaLibrary\\DAO\\CompraAnimaisDAO.cs",
+              "ToolTip": "C:\\Users\\ep509\\OneDrive - ifro.edu.br\\3 Periodo\\POO\\Trabalho\\bibliotecaFazenda\\FazendaLibrary\\DAO\\CompraAnimaisDAO.cs",
+              "RelativeToolTip": "FazendaLibrary\\DAO\\CompraAnimaisDAO.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAAH4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T15:26:12.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FornecedorDAO.cs",
+              "DocumentMoniker": "C:\\Users\\ep509\\OneDrive - ifro.edu.br\\3 Periodo\\POO\\Trabalho\\bibliotecaFazenda\\FazendaLibrary\\DAO\\FornecedorDAO.cs",
+              "RelativeDocumentMoniker": "FazendaLibrary\\DAO\\FornecedorDAO.cs",
+              "ToolTip": "C:\\Users\\ep509\\OneDrive - ifro.edu.br\\3 Periodo\\POO\\Trabalho\\bibliotecaFazenda\\FazendaLibrary\\DAO\\FornecedorDAO.cs",
+              "RelativeToolTip": "FazendaLibrary\\DAO\\FornecedorDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T17:34:02.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ICrudDAO.cs",
+              "DocumentMoniker": "C:\\Users\\ep509\\OneDrive - ifro.edu.br\\3 Periodo\\POO\\Trabalho\\bibliotecaFazenda\\FazendaLibrary\\Interfaces\\ICrudDAO.cs",
+              "RelativeDocumentMoniker": "FazendaLibrary\\Interfaces\\ICrudDAO.cs",
+              "ToolTip": "C:\\Users\\ep509\\OneDrive - ifro.edu.br\\3 Periodo\\POO\\Trabalho\\bibliotecaFazenda\\FazendaLibrary\\Interfaces\\ICrudDAO.cs",
+              "RelativeToolTip": "FazendaLibrary\\Interfaces\\ICrudDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T15:23:23.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Fornecedor.cs",
+              "DocumentMoniker": "C:\\Users\\ep509\\OneDrive - ifro.edu.br\\3 Periodo\\POO\\Trabalho\\bibliotecaFazenda\\FazendaLibrary\\Mapeamento\\Fornecedor.cs",
+              "RelativeDocumentMoniker": "FazendaLibrary\\Mapeamento\\Fornecedor.cs",
+              "ToolTip": "C:\\Users\\ep509\\OneDrive - ifro.edu.br\\3 Periodo\\POO\\Trabalho\\bibliotecaFazenda\\FazendaLibrary\\Mapeamento\\Fornecedor.cs",
+              "RelativeToolTip": "FazendaLibrary\\Mapeamento\\Fornecedor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T15:17:51.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Conexao.cs",
+              "DocumentMoniker": "C:\\Users\\ep509\\OneDrive - ifro.edu.br\\3 Periodo\\POO\\Trabalho\\bibliotecaFazenda\\FazendaLibrary\\Utilitario\\Conexao.cs",
+              "RelativeDocumentMoniker": "FazendaLibrary\\Utilitario\\Conexao.cs",
+              "ToolTip": "C:\\Users\\ep509\\OneDrive - ifro.edu.br\\3 Periodo\\POO\\Trabalho\\bibliotecaFazenda\\FazendaLibrary\\Utilitario\\Conexao.cs",
+              "RelativeToolTip": "FazendaLibrary\\Utilitario\\Conexao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T18:57:33.399Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
