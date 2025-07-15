@@ -1,5 +1,12 @@
 # Banco de dados.
 
+
+## Altere essa linha de acordo com sua realizade.
+`
+private static readonly string conexaoString =
+            "server = localhost; uid = root; pwd = r00t; database = Fazenda";
+´
+            
 CREATE DATABASE Fazenda;
 
 
