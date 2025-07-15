@@ -7,6 +7,8 @@ private static readonly string conexaoString =
             "server = localhost; uid = root; pwd = r00t; database = Fazenda";
 ```
 
+### Comando para criar o banco de dados
+
 ```
  CREATE DATABASE Fazenda;
 
