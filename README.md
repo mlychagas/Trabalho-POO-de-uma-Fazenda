@@ -1,7 +1,11 @@
 # Banco de dados.
 
 CREATE DATABASE Fazenda;
+
+
 USE fazenda;
+
+
 CREATE TABLE Fornecedor (
   id_fornecedor INT PRIMARY KEY AUTO_INCREMENT,
   razao_social VARCHAR(255) NOT NULL,
@@ -12,6 +16,7 @@ CREATE TABLE Fornecedor (
   cidade VARCHAR(100) NOT NULL,
   estado VARCHAR(2) NOT NULL
 );
+
 
 CREATE TABLE compra_animais (
   id_compra INT PRIMARY KEY AUTO_INCREMENT,
@@ -27,6 +32,8 @@ CREATE TABLE compra_animais (
 
 
 Inserção de Dados para fornecedor
+
+
 INSERT INTO Fornecedor(razao_social, cpf_cnpj, telefone, email, endereco, cidade, estado) VALUES
 ('Fazenda Iracema', '60.111.222/0001-10', '(34) 3312-1111', 'fazendairacema@gmail.com', 'Av. Santos Dumont, 1000', 'Uberaba', 'MG'),
 ('Fazenda da Cachoeira', '61.222.333/0001-20', '(19) 3404-2222', 'fazendadacachoeira@gmail.com', 'Rod. Anhanguera, Km 150', 'Limeira', 'SP'),
